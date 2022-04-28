@@ -1,0 +1,8 @@
+ls: mostra o nome dos arquivos presentes no diretório
+***flags***
+-a: mostra arquivos ocultos
+
+
+
+mv: mover arquivos (mv strogonoff.md ./receitas/)
+pwd: mostra o endereço do diretório

@@ -1,0 +1,18 @@
+dir: lista todas as pastas presentes em um diretório (outra pasta)
+
+cls: clear screan
+cd (change directory):cd / -> vai pra local específico no sistema
+cd.. : volta ao diretório anterior
+
+mkdir (make directory): cria um diretório
+echo: printa o que você passar na tela
+
+echo hello > hello.txt (pega o output que seria "hello" e cria um arquivo contendo esse texto)
+
+del *nome-pasta*: deleta somente os arquivos e não o diretório
+rmdir workspace /S /Q: remove o diretório com todos os arquivos dentro
+
+
+
+====ATALHOS====
+*tab*: completa o nome de arquivos presentes com o que você escreveu
